@@ -1,0 +1,9 @@
+.maincontainer{
+    border: dotted blue
+}
+.container1{
+    font-weight: bolder;
+    padding: 20px;
+    margin: 5%;
+    border: solid green ;
+}
